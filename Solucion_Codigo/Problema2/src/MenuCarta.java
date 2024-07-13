@@ -1,9 +1,9 @@
 
 public class MenuCarta extends Menu {
 
-    private double valorPorcionGuarnicion;
-    private double valorBebida;
-    private double porcentajeAdicionalServicio;
+    public double valorPorcionGuarnicion;
+    public double valorBebida;
+    public double porcentajeAdicionalServicio;
 
     public MenuCarta(String nombrePlato, double valorMenu,
             double valorInicialMenu,

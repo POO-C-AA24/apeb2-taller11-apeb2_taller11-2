@@ -1,6 +1,6 @@
 public class MenuNinios extends Menu {
-    private double valorPorcionHelado;
-    private double valorPorcionPastel;
+    public double valorPorcionHelado;
+    public double valorPorcionPastel;
 
     public MenuNinios(String nombrePlato, double valorMenu, double valorInicialMenu,
                      double valorPorcionHelado, double valorPorcionPastel) {

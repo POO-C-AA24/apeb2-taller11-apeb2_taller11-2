@@ -1,7 +1,7 @@
 public abstract class Personaje {
-    protected String nombre;
-    protected int puntosVida;
-    protected int nivel;
+    public String nombre;
+    public  int puntosVida;
+    public int nivel;
 
     public Personaje(String nombre, int puntosVida, int nivel) {
         this.nombre = nombre;

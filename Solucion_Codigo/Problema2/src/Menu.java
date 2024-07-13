@@ -1,7 +1,7 @@
 public abstract class Menu {
-    protected String nombrePlato;
-    protected double valorMenu;
-    protected double valorInicialMenu;
+    public String nombrePlato;
+    public double valorMenu;
+    public double valorInicialMenu;
 
     public Menu(String nombrePlato, double valorMenu, double valorInicialMenu) {
         this.nombrePlato = nombrePlato;

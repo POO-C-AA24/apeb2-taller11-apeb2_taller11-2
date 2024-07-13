@@ -1,6 +1,6 @@
 public class MenuDia extends Menu {
-    private double valorPostre;
-    private double valorBebida;
+    public double valorPostre;
+    public double valorBebida;
 
     public MenuDia(String nombrePlato, double valorMenu, double valorInicialMenu,
                    double valorPostre, double valorBebida) {

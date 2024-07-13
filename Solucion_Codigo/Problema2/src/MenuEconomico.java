@@ -1,5 +1,5 @@
 public class MenuEconomico extends Menu {
-    private double porcentajeDescuento;
+    public double porcentajeDescuento;
 
     public MenuEconomico(String nombrePlato, double valorMenu,
             double valorInicialMenu,

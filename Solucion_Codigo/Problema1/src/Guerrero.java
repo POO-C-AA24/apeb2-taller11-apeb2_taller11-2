@@ -1,5 +1,5 @@
 public class Guerrero extends Personaje {
-    private int fuerza;
+    public int fuerza;
 
     public Guerrero(String nombre, int puntosVida, int nivel, int fuerza) {
         super(nombre, puntosVida, nivel);

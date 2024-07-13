@@ -1,5 +1,5 @@
 public class Arquero extends Personaje {
-    private int precision;
+    public  int precision;
 
     public Arquero(String nombre, int puntosVida, int nivel, int precision) {
         super(nombre, puntosVida, nivel);

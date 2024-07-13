@@ -1,5 +1,5 @@
 public class Mago extends Personaje {
-    private int poderMagico;
+    public int poderMagico;
 
     public Mago(String nombre, int puntosVida, int nivel, int poderMagico) {
         super(nombre, puntosVida, nivel);
